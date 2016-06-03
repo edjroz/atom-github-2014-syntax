@@ -1,5 +1,5 @@
 {
-  "name": "Dark Github syntax",
+  "name": "Dark-github-syntax",
   "theme": "syntax",
   "version": "1.5.0",
   "description": "Inverted Github syntax, tries to replicate the colors from github in a dark scheme.",
