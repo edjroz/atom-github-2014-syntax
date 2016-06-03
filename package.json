@@ -1,9 +1,9 @@
 {
-  "name": "atom-github-2014-syntax",
+  "name": "Dark Github syntax",
   "theme": "syntax",
   "version": "1.5.0",
-  "description": "GitHub's 2014 syntax highlighter colours",
-  "repository": "https://github.com/jacobbednarz/atom-github-2014-syntax",
+  "description": "Inverted Github syntax, tries to replicate the colors from github in a dark scheme.",
+  "repository": "https://github.com/edjroz/dark-github-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
@@ -11,6 +11,6 @@
   "keywords": [
     "github",
     "syntax",
-    "light"
+    "dark"
   ]
 }

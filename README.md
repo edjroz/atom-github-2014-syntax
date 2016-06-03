@@ -1,15 +1,10 @@
-# Port of GitHub's 2014 syntax highlighter
+Dark github syntax
+=========		
 
-### Previews
+Inverted Github syntax, tries to replicate the colors from github in a dark scheme.
+based on the [atom-github-2014-syntax](https://github.com/jacobbednarz/atom-github-2014-syntax)
 
-*HTML*
-![](https://raw.githubusercontent.com/jacobbednarz/atom-github-2014-syntax/master/screenshots/html.png)
+### Preview
 
-*CSS*
-![](https://raw.githubusercontent.com/jacobbednarz/atom-github-2014-syntax/master/screenshots/css.png)
-
-*PHP*
-![](https://raw.githubusercontent.com/jacobbednarz/atom-github-2014-syntax/master/screenshots/php.png)
-
-*Ruby*
-![](https://raw.githubusercontent.com/jacobbednarz/atom-github-2014-syntax/master/screenshots/ruby.png)
+*Python*
+![](https://raw.githubusercontent.com/edjroz/dark-github-syntax/master/screenshots/python.png)
